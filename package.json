@@ -1,0 +1,18 @@
+{
+  "name": "parse-sync-schemas",
+  "description": "Parse Schema Attack prevention",
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
+  "author": "tcha-tcho",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcha-tcho/parse-sync-schemas.git"
+  },
+  "engines": {
+    "node": ">=5"
+  },
+  "dependencies": {
+  }
+}
